@@ -1,1 +1,1 @@
-# tictactoe-python
+# Tictactoe-python
